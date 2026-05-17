@@ -1,10 +1,10 @@
 {
-  "version": "70f0b92",
-  "synced_at": "2026-05-16T05:31:05Z",
-  "upstream_sha": "70f0b92",
-  "cf_count": 296,
-  "cf_count_radarr": 152,
-  "cf_count_sonarr": 144,
+  "version": "bcc3d44",
+  "synced_at": "2026-05-17T05:52:50Z",
+  "upstream_sha": "bcc3d44",
+  "cf_count": 302,
+  "cf_count_radarr": 155,
+  "cf_count_sonarr": 147,
   "template_count": 25,
   "keep_patterns": [
     "french-",
